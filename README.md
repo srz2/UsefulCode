@@ -25,7 +25,7 @@ HTML/CSS | Book |
 
 ####Contributions
 
-If you wish to contribute to this project, feel free to fork the repo and submit a pull request for your changes/additions. Please follow the guidelines below when submitting a contribution.
+Any and all contibutions are welcome! If you wish to contribute to this project, feel free to fork the repo and submit a pull request for your changes/additions. Please follow the guidelines below when submitting a contribution.
 
 #####Covered Topics Contributions
 1. Make a project folder in the language you are writing for which encompasses your project
