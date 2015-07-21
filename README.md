@@ -1,7 +1,7 @@
 UsefulCode
 ==========
 
-The purpose of this repo is to provide useful code snippets and explinations of how to do common tasks. This can include but isn't limited to IDE useage and quirks, sample code snippets for coding concepts, and useful common pieces of code.
+The purpose of this repo is to provide useful code snippets and explinations of how to do common tasks. This can include but isn't limited to IDE useage and quirks, sample code snippets for coding concepts, and useful common pieces of code and even reference material.
 
 ##Covered Topics
 
@@ -15,12 +15,13 @@ Project | Source |Topic| Tidbit
 [Gist CLI](./interesting-projects/github/gist-cli.md) | [Github Project](https://github.com/defunkt/gist)| Ruby | This allows you to use Github's Gist service via your CLI console.
 [mddir](./interesting-projects/github/mddir.md) | [Github Project](https://github.com/JohnByrneRepo/mddir) | Javascript | Create and ASCII/Markdown representation of a folder structure
 
-##Requested
+##Requested Material
 
-Topic | Pertaining to |
-------|---------------|
-Big 3 | C++ Programming|
-Git | Software Version Control 
+Topic | Resource Type | Notes
+------|---------------|-------
+C++ Big 3 | Sample Code | Dont know how to implement
+Git   | Tutorial and Book | Novice at Software Version Control
+HTML/CSS | Book | 
 
 ####Contributions
 
