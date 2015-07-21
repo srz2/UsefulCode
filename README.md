@@ -7,7 +7,7 @@ The purpose of this repo is to provide useful code snippets and explinations of 
 
 Topic | Pertaining to | Difficulty (1-10) | Time to Understand | Sample | Video
 ------|-------------|------------|--------------------|--------|--------|------
-Singleton Classes | C++ Programming | 5 | 10 Minutes | Y | N
+[Singleton Classes](./programming-languages/c++/Singleton/Singleton.md) | C++ Programming | 5 | 10 Minutes | Y | N
 
 ##TODO
 
