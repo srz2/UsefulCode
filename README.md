@@ -15,7 +15,7 @@ Project | Source |Topic| Tidbit
 --------|------------|--------|--------
 [Gist CLI](./content/interesting-projects/github/gist-cli.md) | [Github Project](https://github.com/defunkt/gist)| Ruby | This allows you to use Github's Gist service via your CLI console.
 [mddir](./content/interesting-projects/github/mddir.md) | [Github Project](https://github.com/JohnByrneRepo/mddir) | Javascript | Create and ASCII/Markdown representation of a folder structure
-[Markable.in]() | [Website Editor](http://markable.in/editor/#) | Online Markdown Editor | Allows you to export in both markdown and html (stripped of CSS)
+[Markable.in](./content/useful-websites/tools/markable.md) | [Website Editor](http://markable.in/editor/#) | Online Markdown Editor | Allows you to export in both markdown and html (stripped of CSS)
 
 ##Reference Material
 Name|Author|Media Type|Notes
