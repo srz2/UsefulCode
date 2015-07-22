@@ -16,11 +16,15 @@ Project | Source |Topic| Tidbit
 [Gist CLI](./content/interesting-projects/github/gist-cli.md) | [Github Project](https://github.com/defunkt/gist)| Ruby | This allows you to use Github's Gist service via your CLI console.
 [mddir](./content/interesting-projects/github/mddir.md) | [Github Project](https://github.com/JohnByrneRepo/mddir) | Javascript | Create and ASCII/Markdown representation of a folder structure
 
+##Reference Material
+Name|Author|Media Type|Notes
+----|------|----------|------
+Ry's Git Tutorial| Ryan Hodson | [Online](http://rypress.com/tutorials/git/index) / [iBook](https://itunes.apple.com/us/book/rys-git-tutorial/id948451323?mt=11) | Book provides an easy to follow tutorial
+
 ##Requested Material
 
 Topic | Resource Type | Notes
 ------|---------------|-------
-Git   | Tutorial and Book | Novice at Software Version Control
 HTML/CSS | Book and/or Tutorial | 
 
 ####Contributions
