@@ -20,7 +20,7 @@ Project | Source |Topic| Tidbit
 ##Reference Material
 Name|Author|Media Type|Notes
 ----|------|----------|------
-Ry's Git Tutorial| Ryan Hodson | [Online](http://rypress.com/tutorials/git/index) / [iBook](https://itunes.apple.com/us/book/rys-git-tutorial/id948451323?mt=11) | Book provides an easy to follow tutorial
+[Ry's Git Tutorial](./content/useful-websites/learning/books/rypress-git-tutorial.md)| Ryan Hodson | [Online](http://rypress.com/tutorials/git/index) / [iBook](https://itunes.apple.com/us/book/rys-git-tutorial/id948451323?mt=11) | Book provides an easy to follow tutorial
 
 ##Requested Material
 
