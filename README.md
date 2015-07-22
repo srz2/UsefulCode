@@ -7,19 +7,19 @@ The purpose of this repo is to provide useful code snippets and explinations of 
 
 Topic | Pertaining to | Difficulty (1-10) | Time to Understand | Sample | Video
 ------|-------------|------------|--------------------|--------|--------|------
-[Singleton Classes](./programming-languages/c++/Singleton/Singleton.md) | C++ Programming | 5 | 10 Minutes | [sample-singleton.zip](./programming-languages/c++/Singleton/sample-singleton.zip) | N
+[Singleton Classes](./content/programming-languages/c++/Singleton/Singleton.md) | C++ Programming | 5 | 10 Minutes | [sample-singleton.zip](./content/programming-languages/c++/Singleton/sample-singleton.zip) | No
+[Big Three (Dynamic Memory)](./content/programming-languages/c++/Big\ Three/Big\ Three.md) | C++ Programming | 7 | 30 Minutes | [sample-big-three](./content/programming-languages/c++/Big\ Three/sample-big-three.zip) | No
 
 ##Useful Projects
 Project | Source |Topic| Tidbit
 --------|------------|--------|--------
-[Gist CLI](./interesting-projects/github/gist-cli.md) | [Github Project](https://github.com/defunkt/gist)| Ruby | This allows you to use Github's Gist service via your CLI console.
-[mddir](./interesting-projects/github/mddir.md) | [Github Project](https://github.com/JohnByrneRepo/mddir) | Javascript | Create and ASCII/Markdown representation of a folder structure
+[Gist CLI](./content/interesting-projects/github/gist-cli.md) | [Github Project](https://github.com/defunkt/gist)| Ruby | This allows you to use Github's Gist service via your CLI console.
+[mddir](./content/interesting-projects/github/mddir.md) | [Github Project](https://github.com/JohnByrneRepo/mddir) | Javascript | Create and ASCII/Markdown representation of a folder structure
 
 ##Requested Material
 
 Topic | Resource Type | Notes
 ------|---------------|-------
-C++ Big 3 | Sample Code | Dont know how to implement
 Git   | Tutorial and Book | Novice at Software Version Control
 HTML/CSS | Book | 
 
