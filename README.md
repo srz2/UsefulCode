@@ -21,13 +21,15 @@ Project | Source |Topic| Tidbit
 Topic | Resource Type | Notes
 ------|---------------|-------
 Git   | Tutorial and Book | Novice at Software Version Control
-HTML/CSS | Book | 
+HTML/CSS | Book and/or Tutorial | 
 
 ####Contributions
 
 Any and all contibutions are welcome! If you wish to contribute to this project, feel free to fork the repo and submit a pull request for your changes/additions. Please follow the guidelines below when submitting a contribution.
 
-#####Covered Topics Contributions
+**When contributing to this project, please try to match the README and file structure as best you can**
+
+######Covered Topics Contributions
 1. Make a project folder in the language you are writing for which encompasses your project
 2. In this folder, provide a [Project].md file with a link at the top with a reference back to the root README.md (this page).
 3. You must include a sample of your project to drive the core concepts.
@@ -39,7 +41,7 @@ Any and all contibutions are welcome! If you wish to contribute to this project,
     - **Sample** will include a sample project
     - **Video**, if available, will be some sort of reference video to use to aid in delivering the project information
     
-#####Useful Projects Contributions
+######Useful Projects Contributions
 These are useful projects that you either made or found.
 
 1. Make a [project].md file which, at minimum has the project name, a description and a link to the project in the file. Save the file in a logical spot with a Back to Root link, linking back to this page.

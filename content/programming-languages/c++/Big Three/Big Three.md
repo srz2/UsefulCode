@@ -11,15 +11,15 @@ This project includes a represetation of how to implement a dynamic class using 
 
 ###Copy Constructor
 
-  The copy constructor is called whenever an object is initialized from another object of the same type (unless overload resolution selects the move constructor as a better match), which includes. [[Source.]](http://en.cppreference.com/w/cpp/language/copy_constructor)
+  The copy constructor is called whenever an object is initialized from another object of the same type (unless overload resolution selects the move constructor as a better match), which includes. <p><a href="http://en.cppreference.com/w/cpp/language/copy_constructor" target="_blank">[Source.]</a></p>
 
 ###Assignment Method
 
-  The copy assignment operator is called whenever selected by overload resolution, e.g. when an object appears on the left side of an assignment expression. [Source.](http://en.cppreference.com/w/cpp/language/as_operator)
+  The copy assignment operator is called whenever selected by overload resolution, e.g. when an object appears on the left side of an assignment expression. <p><a href="http://en.cppreference.com/w/cpp/language/as_operator" target="_blank">[Source.]</a></p>
 
 ###Destructor
 
-The destructor is called whenever an object's lifetime ends. [[Source.]](http://en.cppreference.com/w/cpp/language/destructor) This is called in order to clean up the class instance in order to free any other memory used by the class.
+The destructor is called whenever an object's lifetime ends. <p><a style="" href="http://en.cppreference.com/w/cpp/language/destructor" target="_blank">[Source.]</a></p> This is called in order to clean up the class instance in order to free any other memory used by the class.
 
 ##Sample Code
 
