@@ -1,7 +1,7 @@
 Big Three
 =========
 
-[Back to Root](../../../../README.md)
+[Back to Root](../../../../README.md#covered-topics)
 
 The Big Three is the concept within C++ which allows for dynamic memory allocation. The "Big Three" refer to functions which the programmer must manually write in order to make their functions work dynamically. The functions that need to be included are the ***Copy Constructor***, the ***Assignement Method*** and the ***Destructor***.
 

@@ -1,7 +1,7 @@
 Singleton Class
 ===============
 
-[Back to Root](../../../../README.md)
+[Back to Root](../../../../README.md#covered-topics)
 
 A Singleton Class is a class which can only be instantiated once but can be called everywhere in a program instead of carrying around it's instance variable or pointer to the class.
 
