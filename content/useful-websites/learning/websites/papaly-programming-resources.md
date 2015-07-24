@@ -1,5 +1,5 @@
-Papaly Programming Resources - [Source](https://papaly.com/Randy/fn31j/Programming-Resources
-)
+Papaly Programming Resources - [Source](https://papaly.com/Randy/fn31j/Programming-Resources)
+
 ============================
 
 [Back to Root](../../../README.md#Reference-Material)
