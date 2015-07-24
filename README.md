@@ -20,6 +20,7 @@ Project | Source |Topic| Tidbit
 ##Reference Material
 Name|Author|Media Type|Notes
 ----|------|----------|------
+[Papalay Programming Resources](./content/useful-websites/learning/websites/papaly-programming-resources.md) | ---- | [List of References](https://papaly.com/Randy/fn31j/Programming-Resources) | This is a website where someone compiled a list of online tutorials and learning camps to teach dozens of different languages
 [Ry's Git Tutorial](./content/useful-websites/learning/books/rypress-git-tutorial.md)| Ryan Hodson | [Online](http://rypress.com/tutorials/git/index) / [iBook](https://itunes.apple.com/us/book/rys-git-tutorial/id948451323?mt=11) | Book provides an easy to follow tutorial
 
 ##Requested Material
