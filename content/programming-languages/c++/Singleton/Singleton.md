@@ -5,10 +5,10 @@ Singleton Class
 
 A Singleton Class is a class which can only be instantiated once but can be called everywhere in a program instead of carrying around it's instance variable or pointer to the class.
 
-##Sample Project
+## Sample Project
 This project includes a represetation of how to implement a log file. [[sample-singleton]](sample-singleton.zip)
 
-##Sample Code
+## Sample Code
 
 **MySingleClass.h**
 
@@ -58,7 +58,7 @@ This project includes a represetation of how to implement a log file. [[sample-s
 
     }
 
-##Implemenation
+## Implemenation
 
   **main.ccp**
     
