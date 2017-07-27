@@ -5,23 +5,23 @@ Big Three
 
 The Big Three is the concept within C++ which allows for dynamic memory allocation. The "Big Three" refer to functions which the programmer must manually write in order to make their functions work dynamically. The functions that need to be included are the ***Copy Constructor***, the ***Assignement Method*** and the ***Destructor***.
 
-##Sample Project
+## Sample Project
 This project includes a represetation of how to implement a dynamic class using the *Big Three* concept. [[sample-big-three]](sample-big-three.zip)
 
 
-###Copy Constructor
+### Copy Constructor
 
   The copy constructor is called whenever an object is initialized from another object of the same type (unless overload resolution selects the move constructor as a better match), which includes. <p><a href="http://en.cppreference.com/w/cpp/language/copy_constructor" target="_blank">[Source.]</a></p>
 
-###Assignment Method
+### Assignment Method
 
   The copy assignment operator is called whenever selected by overload resolution, e.g. when an object appears on the left side of an assignment expression. <p><a href="http://en.cppreference.com/w/cpp/language/as_operator" target="_blank">[Source.]</a></p>
 
-###Destructor
+### Destructor
 
 The destructor is called whenever an object's lifetime ends. <p><a style="" href="http://en.cppreference.com/w/cpp/language/destructor" target="_blank">[Source.]</a></p> This is called in order to clean up the class instance in order to free any other memory used by the class.
 
-##Sample Code
+## Sample Code
 
 **Person.h**
 
@@ -96,7 +96,7 @@ The destructor is called whenever an object's lifetime ends. <p><a style="" href
       return this->name;
     }
 
-##Implementation
+## Implementation
 
   **main.cpp**
 
