@@ -7,8 +7,8 @@ The purpose of this repo is to provide useful code snippets and explinations of 
 
 Topic | Pertaining to | Difficulty (1-10) | Time to Understand | Sample | Video
 ------|---------------|-------------------|--------------------|--------|--------
-[Singleton Classes](./content/programming-languages/c++/Singleton/Singleton.md) | C++ Programming | 5 | 10 Minutes | [sample-singleton.zip](./content/programming-languages/c++/Singleton/sample-singleton.zip) | No
-[Big Three (Dynamic Memory)](./content/programming-languages/c++/Big\ Three/Big\ Three.md) | C++ Programming | 7 | 30 Minutes | [sample-big-three](./content/programming-languages/c++/Big\ Three/sample-big-three.zip) | No
+[Singleton Classes](./content/programming-languages/c++/Singleton/Singleton.md) | C++ Programming | 5 | 10 Minutes | [sample-singleton.zip](./content/programming-languages/c++/singleton/sample-singleton.zip) | No
+[Big Three (Dynamic Memory)](./content/programming-languages/c++/big-three/big-three.md) | C++ Programming | 7 | 30 Minutes | [sample-big-three.zip](./content/programming-languages/c++/big-three/sample-big-three.zip) | No
 
 ## Useful Projects
 
